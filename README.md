@@ -43,4 +43,4 @@ The goal of this project is to practice Python fundamentals by building a small 
 
 ## Project Status
 
-Completed as a Python learning project
+Completed as a Python learning project.
